@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "cstring": "cpp",
+        "cstdio": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
